@@ -28,5 +28,5 @@ _if you choose to use this implementation you are welcome to, but please leave t
 * ver 1.0 - release
 * ver 1.01 - line 60 - inserted simple PHP Mail out - have NOT tested this.
 * ver 1.1 - added MIT Licence... be free little scripts, be free! also, I don't have time to support this...
-* ver 1.11 - FINAL. There will be no further updates to this code.
+* ver 1.99 - FINAL. There will be no further updates to this code.
 ----
