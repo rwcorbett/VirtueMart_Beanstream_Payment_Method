@@ -12,7 +12,7 @@
 3. copy and paste this entire PHP block (line 1 to line 70) into the configuration block
 ----
 * _based on the PayPal module that is included with VirtueMart_
-* date : 11 June 2010
+* date: 11 June 2010 (updated: 29 Jan 2015)
 * author: Robb Corbett / Cape Breton Web Design
 * repo: rwcorbett/VirtueMart_Beanstream_Payment_Method
 * copyright: :copyright: Robb Corbett / Cape Breton Web Design
